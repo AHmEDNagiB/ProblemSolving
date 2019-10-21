@@ -1,3 +1,5 @@
+package numberInExpandedForm;
+
 public class NumberInExpandedForm {
 
     public static void main(String[] args) {

@@ -14,8 +14,8 @@ public class RecreationOne {
         ArrayList<Long> b = new ArrayList();
         long sum = 0;
         if (m == 1) {
-            b.add((long)1);
-            b.add((long)1);
+            b.add(1l);
+            b.add(1l);
             a.add(b);
             b = new ArrayList();
         }
